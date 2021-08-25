@@ -7,6 +7,7 @@
  * **Debian/Ubuntu**: apt install nginx
 2. Собрать вручную, предварительно скачав с сайта [nginx.org](http://hg.nginx.org/nginx.org)
 3. Скопировать файл **nginx.conf** и заменить базовый.
+
 Для того, что бы у вас заработало архивирование необходимо заменить блок:
 ```
         gzip on;
@@ -38,6 +39,7 @@ In order to start using it, it is enough:
   * **Debian/Ubuntu**: apt install nginx
 2. Build manually, after downloading from the site [nginx.org](http://hg.nginx.org/nginx.org)
 3. Copy the *nginx.conf* file and replace the base one.
+
 In order for archiving to work for you, you need to replace the block:
 ```
  	 gzip on;
