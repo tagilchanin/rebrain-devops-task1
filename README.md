@@ -1,5 +1,5 @@
 # Добро пожаловать с наш  проект "Рога и копыта".
-
+![NGINX](logo.png)
 Он использует высокопроизводительный web сервер **Nginx**.
 Для того что бы начать пользоваться им достачно:
 1. Установить **Nginx** командой:
@@ -32,6 +32,7 @@
 ```
 
 # Welcome to our project "Horns and Hooves".
+![NGINX](logo.png)
 It uses a high performance web server **Nginx**.
 In order to start using it, it is enough:
 1. Install **Nginx** with the command:
